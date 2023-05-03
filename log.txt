@@ -1,0 +1,3 @@
+04-26 22:59:08.115  1105  1105 E wificond: vivo add tx_good 426889 tx_bad 0 rx_good 502838 tx_retry 1359 tx_retry_times 0
+04-28 16:06:26.809  1105  1105 E wificond: vivo add tx_good 26889 tx_bad 0 rx_good 102041 tx_retry 275 tx_retry_times 0
+05-01 00:28:07.967  1105  1105 E wificond: vivo add tx_good 268895 tx_bad 0 rx_good 320552 tx_retry 1477 tx_retry_times 0
